@@ -1,8 +1,10 @@
-Smarthome adalah community project XL-Labs, yang dimulai --- mungkin --- 2 tahun yang lalu.
+# Smarthome
+
+Adalah community project XL-Labs, yang dimulai --- mungkin --- 2 tahun yang lalu.
 
 Ini adalah project DIY smarthome menggunakan Arduino dan Raspberry Pi (Raspi).
 
-# Cara Kerja
+## Cara Kerja
 
 Arduino digunakan untuk interfacing antara Raspi dengan hardware --- sensor dan relay.
 Di dalamnya ada firmware firmata yang berkomunikasi dengan Raspi melalui interface serial.
