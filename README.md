@@ -19,3 +19,10 @@ Arduino bisa diperintah untuk ON/OFF relay.
 URL `http://ip_address_raspi:3000/1/on` akan menyalakan relay no.1
 
 URL `http://ip_address_raspi:3000/1/off` akan mematikan relay no.1
+
+## Library
+
+```
+npm install -g firmata
+npm install -g express
+```
