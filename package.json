@@ -1,0 +1,27 @@
+{
+  "name": "smarthome",
+  "version": "1.0.0",
+  "description": "XL Labs Smarthome Project",
+  "main": "tes-http.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praditautama/smarthome.git"
+  },
+  "keywords": [
+    "smarthome"
+  ],
+  "author": "ardhyw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praditautama/smarthome/issues"
+  },
+  "homepage": "https://github.com/praditautama/smarthome#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "firmata": "^0.14.1",
+    "socket.io": "^1.5.1"
+  }
+}
