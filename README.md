@@ -4,7 +4,7 @@ forked from https://github.com/ardhyw/smarthome
 
 Adalah community project XL-Labs, yang dimulai &mdash; mungkin &mdash; 2 tahun yang lalu.
 
-Ini adalah project DIY smarthome menggunakan Arduino dan Raspberry Pi (Raspi).
+Ini adalah project DIY smarthome menggunakan Arduino dan Raspberry Pi (Raspi). 
 
 ## Cara Kerja
 
